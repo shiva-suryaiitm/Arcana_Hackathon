@@ -1,8 +1,10 @@
 # Arcana_Hackathon
-Arcana Hackathon by ShivaSurya PH21B009 and Juswanth EE21B063
+## Arcana Hackathon by ShivaSurya PH21B009 and Juswanth EE21B063
 We have done the data analytics part and website part 
 
 Instructions to run the file locally :
+
+### For Analytics Part
 
 1) After unzipping Analytics_code.zip has file structure like :
 
@@ -37,3 +39,8 @@ We just need to plave the dataset the folder named 'FMP' -> (contains transcript
 - &rarr; Prices
   
 Then all codes **( Transcript_analysis.ipynb and data_visualization_LSTM_stock_prediction.ipynb )** will run properly
+
+### For webpart -> ( To run website locally )
+
+* Install Django 
+* run the command 'python manage.py runserver'
